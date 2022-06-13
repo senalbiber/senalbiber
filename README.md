@@ -44,9 +44,6 @@
 ## 🎵 Now playing
 <img src= "https://raw.githubusercontent.com/Gishankrishka2/Gishankrishka2/main/Gifs/5eeea355389655.59822ff824b72.gif" width="500">
 
- [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
-
-
 ---
 
 <!---
