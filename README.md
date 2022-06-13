@@ -30,7 +30,7 @@
 
 ![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=Senalbiber&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbimsath&layout=compact&theme=radical)](https://github.com/gbimsath)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senalbiber&layout=compact&theme=radical)](https://github.com/gbimsath)
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=xMalitha&custom_title=Gavesh+Bimsath's+Contribution+Graph&theme=xcode" />
 </p>
