@@ -32,7 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senalbiber&layout=compact&theme=radical)](https://github.com/gbimsath)
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=xMalitha&custom_title=Gavesh+Bimsath's+Contribution+Graph&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=xMalitha&custom_title=Senalbiber's+Contribution+Graph&theme=xcode" />
 </p>
 
 ## 🔗 Connect with me
