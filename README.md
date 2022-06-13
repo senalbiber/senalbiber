@@ -23,7 +23,7 @@
 <a href="https://www.postgresql.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
 <a href="https://www.python.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://redis.io" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
-<a href="https://picsart.com/" class="padded" target="_blank"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=dxxkBEoY&id=EC181C0AE5EB6F826D2AE5478B83C935A43183A0&thid=OIP.dxxkBEoY8gFxZ6xzxj5J3gHaHa&mediaurl=https%3a%2f%2fapk-store.org%2fwp-content%2fuploads%2f2019%2f08%2fPicsArt_logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.771c64044a18f2017167ac73c63e49de%3frik%3doIMxpDXJg4tH5Q%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=picsart&simid=608027448022295072&FORM=IRPRST&ck=EF5BB63AC1793E09D6EB954785680394&selectedIndex=1" alt="picsart" width="30" height="30"/> </a> 
+<a href="https://picsart.com/" class="padded" target="_blank"> <img src="https://telegra.ph/file/224d6c4814299ef2f7aa2.jpg" alt="picsart" width="30" height="30"/> </a> 
 </br>
 
 ## 📊 Stats
