@@ -1,6 +1,6 @@
 <b><img src="https://github.com/ItsmeHyper13/ItsmeHyper13/blob/SparkelAD1317/SparkelAD/htmlanime.webp" height="30px">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=30&lines=Hi+I'm+Senal;Still+learning+)](https://git.io/typing-svg)   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#c7c5e6size=30&lines=Hi+I'm+Senal;Still+learning+)](https://git.io/typing-svg)   
 <img src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/ImpressiveJampackedKinglet-max-1mb.gif" width="70px" style="max-width:100%;">
 
 - 💫 I’m Still A Student
