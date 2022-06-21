@@ -35,14 +35,6 @@
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Senalbiber&custom_title=Senalbiber's+Contribution+Graph&theme=xcode" />
 </p>
 
-<!--<p align="center">
-  <a href="https://github.com/Damantha126">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
-  </a>
-</p>-->
-  <a href="https://github.com/Damantha126"><img alt="Damantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Damantha126&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 ## 🔗 Connect with me
 <a href="https://t.me/happyisapartofmylife" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
 <a href="https://github.com/Senalbiber/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="lakshithaxd" height="30" width="40" /></a>
