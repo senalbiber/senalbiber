@@ -27,7 +27,7 @@
 <a href="https://picsart.com/" class="padded" target="_blank"> <img src="https://telegra.ph/file/224d6c4814299ef2f7aa2.jpg" alt="picsart" width="30" height="30"/> </a> 
 </br>
 
-## 📊 Stats
+## 📊 Stats <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 
 ![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=Senalbiber&include_all_commits=true&count_private=true&theme=highcontrast)
 
