@@ -35,6 +35,7 @@
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Senalbiber&custom_title=Senalbiber's+Contribution+Graph&theme=xcode" />
 </p>
+<img align="right" alt="GIF" height="300px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/daftpunktocat-guy.gif" />
 
 ## 🔗 Connect with me
 <a href="https://t.me/happyisapartofmylife" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
