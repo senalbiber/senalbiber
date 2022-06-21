@@ -13,7 +13,7 @@
  
  <img align="right" alt="GIF" height="300px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/daftpunktocat-guy.gif" />
 
-
+---
 
 
 ## 🛠 Languages and tools
@@ -34,6 +34,8 @@
 <a href="https://picsart.com/" class="padded" target="_blank"> <img src="https://telegra.ph/file/224d6c4814299ef2f7aa2.jpg" alt="picsart" width="30" height="30"/> </a> 
 </br>
 
+---
+
 ## 📊 Stats 
 
 ![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=Senalbiber&include_all_commits=true&count_private=true&theme=highcontrast)
@@ -43,6 +45,7 @@
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Senalbiber&custom_title=Senalbiber's+Contribution+Graph&theme=xcode" />
 </p>
 
+---
 
 ## 🔗 Connect with me <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 <a href="https://t.me/happyisapartofmylife" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
@@ -51,6 +54,7 @@
 <a href="http://senalbeber.carrd.co/" target="blank"><img align="center" src="https://github.com/gbimsath/gbimsath/blob/main/assets/images/web.png" alt="gbimsath" height="40" width="40" /></a> <!--<a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a> --> 
 </p>
 
+---
 
 **🔮Now playing🔮**
 
