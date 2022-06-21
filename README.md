@@ -43,11 +43,17 @@
 
 </p>
 
-## 🎵 Now playing
+
+##🎵 Now playing
 <img src= "https://raw.githubusercontent.com/Gishankrishka2/Gishankrishka2/main/Gifs/5eeea355389655.59822ff824b72.gif" width="500">
 
 #### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{senalbiber}/count.svg)
+
+## **BYE**
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
+
+
 
 ---
 
