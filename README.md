@@ -47,6 +47,7 @@
 ## 🔗 Connect with me <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 <a href="https://t.me/happyisapartofmylife" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
 <a href="https://github.com/Senalbiber/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="lakshithaxd" height="30" width="40" /></a>
+<a href="https://t.me/+deSzeAIKxlJkNTk1" target="_blank"><img align="center" src="https://telegra.ph/file/10bd93f66df12eb4c15af.jpg" alt="Discord"></a>
 <a href="http://senalbeber.carrd.co/" target="blank"><img align="center" src="https://github.com/gbimsath/gbimsath/blob/main/assets/images/web.png" alt="gbimsath" height="40" width="40" /></a> <!--<a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a> --> 
 </p>
 
