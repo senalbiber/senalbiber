@@ -13,7 +13,6 @@
  
  <img align="right" alt="GIF" height="300px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/daftpunktocat-guy.gif" />
 
----
 
 
 ## 🛠 Languages and tools
