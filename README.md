@@ -65,8 +65,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+---
+
 #### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{senalbiber}/count.svg)
+
+---
 
 ## **BYE......**
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
