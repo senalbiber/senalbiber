@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Senal+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Senal+)](https://git.io/typing-svg)    
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
